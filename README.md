@@ -1,4 +1,4 @@
-# Neural-Architecture-Search-
+# Neural-Architecture-Search
 CV project on NAS 
 
 Our end goal is to create a Neural Architecture Search system which can learn convolution operations from scratch 
